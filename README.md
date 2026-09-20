@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vishal Kumar
 
-### 💻 Aspiring Full-Stack Developer | Java & DSA | Data Analytics
+### 💻 Aspiring Full-Stack Developer | Java & DSA |
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys building projects, solving programming problems, and learning new technologies.
 
